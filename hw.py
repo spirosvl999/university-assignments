@@ -45,9 +45,9 @@ def motion_compensation(reference_frame, current_frame, block_size=64, search_ra
 
                     if curr_block.shape != (block_size, block_size):
                         continue
-                    
+
                     #print("Shapes:", ref_block.shape, curr_block.shape)
-                    
+
                     mad = compute_mad(ref_block, curr_block)
 
                     if mad < min_mad:
