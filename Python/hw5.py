@@ -60,9 +60,5 @@ Three_Letters = "".join(temp_3)
 Three_Letters = Three_Letters.split()
 
 counterThreeLetters = Counter(Three_Letters)
-                                                                                                ##################################
-print(counterThreeLetters.most_common(3))                                                       #     The only "bug" I found     #
-                                                                                                # was the fact I am not checking #
-                                                                                                # if the words are at least 2/3  #
-                                                                                                #         letters long           #
-                                                                                                ##################################
+                                                                                                
+print(counterThreeLetters.most_common(3)) 
