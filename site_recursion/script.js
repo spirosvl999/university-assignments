@@ -17,8 +17,8 @@ function drawCircle(x, y, radius, depth, maxDepth) {
 
     const circle = document.createElement('div');
     circle.classList.add('circle');
-    circle.style.width = radius * 2 + 'px';
-    circle.style.height = radius * 2 + 'px';
+    circle.style.width = radius * 3 + 'px';
+    circle.style.height = radius * 3 + 'px';
     circle.style.backgroundColor = getRandomColor();
     circle.style.left = x - radius + 'px';
     circle.style.top = y - radius + 'px';
