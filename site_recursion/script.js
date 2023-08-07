@@ -12,6 +12,9 @@ startButton.addEventListener('click', () => {
 function drawCircle(x, y, radius, depth, maxDepth) {
     if (depth >= maxDepth) {
         startButton.disabled = false;
+		 setTimeout(() => {
+            removeCircles();
+        }, 2000); // Adjust the delay as needed (e.g., 2000ms for 2 seconds)
         return;
     }
 
@@ -28,6 +31,13 @@ function drawCircle(x, y, radius, depth, maxDepth) {
     setTimeout(() => {
         drawCircle(x + radius / 2, y, radius / 2, depth + 1, maxDepth);
     }, 1000);
+}
+
+function removeCircles() {
+    const circles = document.querySelectorAll('.circle');
+    circles.forEach(circle => {
+        circle.remove();
+    });
 }
 
 function getRandomColor() {
