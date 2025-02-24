@@ -1,18 +1,30 @@
-# Assignments @ University Of Piraeus
-Welcome to my repository containing assignments and projects completed during my studies at the University of Piraeus. This repo serves as a central hub for accessing my academic work.
+# Assignments @ University of Piraeus
 
-# Projects Hosted in Separate Repositories:
+Welcome to my repository containing assignments and projects completed during my studies at the **University of Piraeus**.  
+This repository serves as a central hub for accessing my academic work.
 
-## Programing into the World Wide Web
-- [IMUnipi](https://github.com/geo-di/IMUnipi)
+---
 
-## Virtual Reality
-- [Virtual Reality Final Project](https://github.com/spirosvl999/Virtual_Reality_Final)
+## Projects Hosted in Separate Repositories
 
-## For "SOFTWARE TECHNOLOGY TOPICS - MOBILE SOFTWARE" Lesson":
-- [Speed-O-Meter](https://github.com/spirosvl999/Speed-o-meter)
-- [TELEprograms - MVC Project](https://github.com/spirosvl999/TELEprograms)
-- [Unipi Audio Stories (Final project)](https://github.com/spirosvl999/Unipi_Audio_Stories)
+### Programming into the World Wide Web
+- [IMUnipi](https://github.com/geo-di/IMUnipi)  
 
+---
 
-## For any changes, or new assignments please contact me!
+###  Virtual Reality
+- [Virtual Reality Final Project](https://github.com/spirosvl999/Virtual_Reality_Final)  
+
+---
+
+### Software Technology Topics - Mobile Software
+- [Speed-O-Meter](https://github.com/spirosvl999/Speed-o-meter)  
+
+- [TELEprograms - MVC Project](https://github.com/spirosvl999/TELEprograms)  
+
+- [Unipi Audio Stories (Final Project)](https://github.com/spirosvl999/Unipi_Audio_Stories)  
+
+---
+
+## 📩 Contact  
+For any updates, suggestions, or collaboration opportunities, feel free to reach out!
