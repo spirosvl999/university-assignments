@@ -27,4 +27,4 @@ This repository serves as a central hub for accessing my academic work.
 ---
 
 ## 📩 Contact  
-For any updates, suggestions, or collaboration opportunities, feel free to reach out!
+For any updates or suggestions, feel free to reach out!
