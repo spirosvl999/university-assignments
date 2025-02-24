@@ -1,7 +1,7 @@
 # Assignments @ University Of Piraeus
-This Repo has been created for me to get all my assignments/projects for university all together.
+Welcome to my repository containing assignments and projects completed during my studies at the University of Piraeus. This repo serves as a central hub for accessing my academic work.
 
-# Projects On Different repo:
+# Projects Hosted in Separate Repositories:
 
 ## Programing into the World Wide Web
 - [IMUnipi](https://github.com/geo-di/IMUnipi)
