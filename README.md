@@ -13,3 +13,6 @@ Welcome to my repository containing assignments and projects completed during my
 - [Speed-O-Meter](https://github.com/spirosvl999/Speed-o-meter)
 - [TELEprograms - MVC Project](https://github.com/spirosvl999/TELEprograms)
 - [Unipi Audio Stories (Final project)](https://github.com/spirosvl999/Unipi_Audio_Stories)
+
+
+## For any changes, or new assignments please contact me!
