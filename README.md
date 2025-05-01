@@ -29,7 +29,7 @@ This repository serves as a central hub for accessing my academic work.
 ---
 
 ### Voice And Sound Proccessing
-- Final Project (Soon Uploaded)
+- [Final Project (Soon Public)](https://github.com/spirosvl999/voice_and_audio_processing)
 
 ---
 ## 📩 Contact  
