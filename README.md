@@ -34,5 +34,5 @@ Make sure to STAR this project if you found this helpful!
 - [Final Project (Soon Public)](https://github.com/spirosvl999/voice_and_audio_processing)
 
 ---
-## 📩 Contact  
+## Contact  
 For any updates or suggestions, feel free to reach out!
