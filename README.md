@@ -15,7 +15,7 @@ Make sure to STAR this project if you found this helpful!
 ---
 
 ### Educational Software
-- Final Project - KerkyLearn
+- KerkyLearn
 
 ---
 
