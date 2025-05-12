@@ -3,6 +3,8 @@
 Welcome to my repository containing assignments and projects completed during my studies at the **University of Piraeus**.  
 This repository serves as a central hub for accessing my academic work.
 
+Make sure to STAR this project if you found this helpful!
+
 ---
 
 ## Projects Hosted in Separate Repositories
