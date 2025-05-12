@@ -33,8 +33,6 @@ Make sure to STAR this project if you found this helpful!
 
 ---
 
----
-
 ### Voice And Sound Proccessing
 - [Final Project (Soon Public)](https://github.com/spirosvl999/voice_and_audio_processing)
 
