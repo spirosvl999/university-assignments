@@ -3,6 +3,8 @@
 Welcome to my repository containing assignments and projects completed during my studies at the **University of Piraeus**.  
 This repository serves as a central hub for accessing my academic work.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A31EYOSW)
+
 Make sure to STAR this project if you found this helpful!
 
 ---
