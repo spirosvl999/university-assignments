@@ -35,7 +35,7 @@ Make sure to STAR this project if you found this helpful!
 
 ---
 
-### Voice And Sound Proccessing
+### Voice And Sound Processing
 - [Final Project](https://github.com/spirosvl999/voice_and_audio_processing)
 
 ---
