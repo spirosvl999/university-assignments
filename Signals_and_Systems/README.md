@@ -8,7 +8,7 @@ This repository contains both **code** and **mathematical solutions** related to
 
 Some exercises required analytical/mathematical solutions rather than code. These solutions are included in this README file.
 
-### Example: Θέμα Γ.1  
+### Θέμα Γ.1  
 **A)** Σήμα συνεχούς χρόνου:  
 &nbsp;&nbsp;&nbsp;&nbsp;*x(t) = cos(100πt) + cos(200πt) + sin(500πt)*  
 
