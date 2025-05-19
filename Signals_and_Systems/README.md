@@ -1,13 +1,29 @@
 # Signals and Systems
 
-This repository contains code & mathematical solutions related to the course **Signals and Systems**.
+This repository contains both **code** and **mathematical solutions** related to the course *Signals and Systems*.
 
-## Mathsematical Solutions.
-### In some we had to give a mathematical solution and not a coding project. Here's the mathematical solutions:
--Θεμα Γ.1. 
-Α)Σήμα συνεχούς χρόνου: x(t)=cos(100πt)+cos(200πt)+sin(500πt)
-Στο δοσμένο σήμα έχουμε f1=50 Hz, f2=100Hz και f3=250Hz (γνωρίζουμε ότι ω=2πf)
--
+---
 
-## Code.
-We coded on MatLab, we have everything and named as G.number.number to give the number of the exercice.
+## 📘 Mathematical Solutions
+
+Some exercises required analytical/mathematical solutions rather than code. These solutions are included in this README file.
+
+### Example: Θέμα Γ.1  
+**A)** Σήμα συνεχούς χρόνου:  
+&nbsp;&nbsp;&nbsp;&nbsp;*x(t) = cos(100πt) + cos(200πt) + sin(500πt)*  
+
+Για το παραπάνω σήμα έχουμε:  
+- f₁ = 50 Hz  
+- f₂ = 100 Hz  
+- f₃ = 250 Hz  
+(δεδομένου ότι ω = 2πf)
+
+*… περισσότερες λύσεις soon.*
+
+---
+
+## 💻 Code (Matlab)
+
+Coding was done using **Matlab**, and each script is named using the format `G.number.number`, corresponding to the exercise number.
+
+All code files are uploaded and organized accordingly.
