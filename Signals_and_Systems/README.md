@@ -2,7 +2,7 @@
 
 This repository contains both **code** and **mathematical solutions** related to the course *Signals and Systems*.
 
-Inside this repo we have the **Γ1, Γ2, Γ3 & Γ4** of book.
+Inside this repo we have solutions for **Γ1, Γ2, Γ3 & Γ4** of book.
 
 ---
 
@@ -26,7 +26,7 @@ Some exercises required analytical/mathematical solutions rather than code. Thes
 &nbsp;&nbsp;&nbsp;&nbsp;*Ts = 1 / fs = 0.002 sec*
 
 **ΣΤ)** Παρατηρούμε ότι όσο αυξάνεται η συχνότητα δειγματοληψίας (*fₛ*) το δείγμα γίνεται πιο ξεκάθαρο, ενώ όσο μειώνεται η *fₛ* αρχίζει να χάνει την ευκρίνειά του.  
-Με *Ts = 0.001* παίρνω τα καλύτερα δείγματα (δηλαδή χρησιμοποιώ μικρότερο βήμα από το αρχικό *Ts*).  
+Με *Ts = 0.001* παίρνω τα καλύτερα δείγματα (δλδ μικρότερο βήμα από το αρχικό *Ts*).  
 Προηγουμένως, τα σήματα συνέπιπταν το ένα πάνω στο άλλο — το ένα με μικρότερη και το άλλο με μεγαλύτερη συχνότητα — γεγονός που εξηγεί την αλλαγή στα χρώματα και στο *Ts*.
 
 ---
