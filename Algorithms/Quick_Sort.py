@@ -1,5 +1,3 @@
-# We imagine we have an array named arr as an input
-
 def quicksort(arr):
     if len(arr) <= 1:
         return arr
