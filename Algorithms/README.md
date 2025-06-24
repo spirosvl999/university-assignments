@@ -3,7 +3,9 @@
 This repository contains clean and simple implementations of commonly taught algorithms from my university course named "Algorithms". Each algorithm includes a brief description and its time/space complexity into this README.
 
 ---
+
 ## Each algorithm is presented in its essential form, without input/output handling, and is meant to serve as a reference for academic and interview preparation purposes.
+
 ---
 ## 📦 Sorting Algorithms
 
