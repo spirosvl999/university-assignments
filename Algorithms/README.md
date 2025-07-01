@@ -86,12 +86,6 @@ This repository contains clean and simple implementations of commonly taught alg
 
 ---
 
-## 🛠 How to Use
-
-You can run any of these implementations individually. Each algorithm is in its own file and can be tested with example inputs.
-
----
-
 ## 💡 Contributing
 
 Feel free to open issues or pull requests if you'd like to contribute more algorithms or improve the existing code.
