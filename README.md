@@ -15,7 +15,7 @@ Make sure to STAR this project if you found this helpful!
 
 The project involves building an NLP-powered terminal chatbot.
 
-📝 The code and documentation will be added once the thesis is completed and submitted.
+📝 Documentation will be added once the thesis is completed and submitted.
 
 ---
 
