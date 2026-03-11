@@ -9,11 +9,10 @@ Make sure to STAR this project if you found this helpful!
 
 ---
 
-## Thesis (In Progress) – Natural Language Processing (NLP)
+## Thesis (In Progress) – Voice Assistant
 
-🚧 **Currently working on my undergraduate thesis** focused on **Natural Language Processing (NLP)**, a subfield of Artificial Intelligence that enables machines to understand, interpret, and generate human language.
-
-The project involves building an NLP-powered terminal chatbot.
+🚧 **Currently working on my undergraduate thesis** focused on **Chatbots & AI Assistants**
+The project involves building an Voice Assistant terminal chatbot.
 
 📝 Documentation will be added once the thesis is completed and submitted.
 
