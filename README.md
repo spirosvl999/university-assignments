@@ -12,6 +12,7 @@ Make sure to STAR this project if you found this helpful!
 
 # Projects Hosted in Separate Repositories
 
+---
 
 ## Thesis (In Progress) – Voice Assistant
 - [VoiceAccess_AI](https://github.com/spirosvl999/VoiceAccess_AI)
