@@ -11,10 +11,10 @@ Make sure to STAR this project if you found this helpful!
 
 
 # Projects Hosted in Separate Repositories
-
+Here's a list for all the uni projects that I have on diverent repos.
 ---
 
-## Thesis (In Progress) – Voice Assistant
+## Thesis – Voice Assistant
 - [VoiceAccess_AI](https://github.com/spirosvl999/VoiceAccess_AI)
 
 ---
