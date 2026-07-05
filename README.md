@@ -9,18 +9,9 @@ Make sure to STAR this project if you found this helpful!
 
 ---
 
-## Thesis (In Progress) – Voice Assistant
-
-🚧 **Currently working on my undergraduate thesis** focused on **Chatbots & AI Assistants**
-The project involves building an Voice Assistant terminal chatbot.
-
-📝 Documentation will be added once the thesis is completed and submitted.
-
----
 
 ## Projects Hosted in Separate Repositories
 
---
 
 ## Thesis (In Progress) – Voice Assistant
 - [VoiceAccess_AI](https://github.com/spirosvl999/VoiceAccess_AI)
