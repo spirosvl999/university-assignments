@@ -20,6 +20,13 @@ The project involves building an Voice Assistant terminal chatbot.
 
 ## Projects Hosted in Separate Repositories
 
+--
+
+## Thesis (In Progress) – Voice Assistant
+- [VoiceAccess_AI](https://github.com/spirosvl999/VoiceAccess_AI)
+
+---
+
 ### Programming into the World Wide Web
 - [IMUnipi](https://github.com/geo-di/IMUnipi)  
 
