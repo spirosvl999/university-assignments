@@ -10,7 +10,7 @@ Make sure to STAR this project if you found this helpful!
 ---
 
 
-## Projects Hosted in Separate Repositories
+# Projects Hosted in Separate Repositories
 
 
 ## Thesis (In Progress) – Voice Assistant
