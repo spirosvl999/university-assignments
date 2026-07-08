@@ -16,6 +16,7 @@ Here's a list for all the uni projects that I have on diverent repos.
 
 ## Thesis – Voice Assistant
 - [VoiceAccess_AI](https://github.com/spirosvl999/VoiceAccess_AI)
+- [Thesis - Official scientific dissertation ](https://dione.lib.unipi.gr/xmlui/handle/unipi/19518)
 
 ---
 
